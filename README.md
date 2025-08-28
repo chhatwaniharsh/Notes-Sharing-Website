@@ -2,7 +2,10 @@
 
 Hello Visitor!  
 This is Notes Sharing Website that means a Study Notes Sharing project built in django framewrok. The project has been built by taking reference from other Project.
-The Project has been developed by me to learn the use Django framework in python.
+The Project has been developed by me to learn the use Django framework in python.  
+
+### Live Project for reference:  
+https://chhatwaniharsh.pythonanywhere.com/
 
 ## Introduction To Project:
 This Project focuses on providing the services of sharing notes publically that means you can share your notes publically and admin will decide whether to accept or reject your notes.  In this project you can also see notes uploaded by other's which are been accepted by admin.  You can also download other's note and delete notes uploaded by you. Project has Admin Interface as well as User Interface.
