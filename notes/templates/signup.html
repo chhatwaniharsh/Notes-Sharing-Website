@@ -1,0 +1,62 @@
+{% extends 'navigation.html' %}
+{% load static %}
+{% block body %}
+
+{% if error == "no" %}
+<Script>
+    alert('Signup Successfully');
+    window.location="{% url 'login' %}";
+</Script>
+{% endif %}
+
+{% if error == "yes" %}
+<Script>
+    alert('Something went wrong, Try Again');
+</Script>
+{% endif %}
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-sm-6">
+            <h2 class="text-center">EXISTING USER</h2>
+            <hr>
+            <p>By Creating an account with our website you will be able to move through the notes uploading
+                and downloading process and more...</p>
+            <p>Already Have an account? Login to use all features!</p>
+            <a href="{% url 'login' %}" class="btn btn-success text-white mt-2">LOGIN</a>
+        </div>
+        <div class="col-sm-6">
+            <h2 class="text-center">USER REGISTERATION</h2>
+            <hr>
+            <p>If you have not an account with us, please signup...</p>
+            <form method="post">
+                {% csrf_token %}
+                <label>First Name</label>
+                <input type="text" class="form-control" placeholder="Enter First Name" name="firstname">
+                <label>Last Name</label>
+                <input type="text" class="form-control" placeholder="Enter Last Name" name="lastname">
+                <label>Contact Number</label>
+                <input type="text" class="form-control" placeholder="Enter Contact Number" name="contact">
+                <label>Email Address</label>
+                <input type="email" class="form-control" placeholder="Enter Email ID" name="emailid">
+                <label>Password</label>
+                <input type="password" class="form-control" placeholder="Enter Password" name="password">
+                <label>Branch</label>
+                <select class="form-control" name="branch">
+                    <option value="Computer Science">Computer Science</option>
+                    <option value="Mechanical">Mechanical</option>
+                    <option value="Civil">Civil</option>
+                    <option value="Electronics">Electronics</option>
+                </select>
+                <label>Are You?</label>
+                <select class="form-control" name="role">
+                    <option value="Student">Student</option>
+                    <option value="Teacher">Teacher</option>
+                </select>
+                <center><input type="submit" class="btn btn-danger mt-4" value="Create an Account"></center>
+            </form>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
