@@ -44,10 +44,57 @@ python3 -m venv env
 ## Snapshots
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+<ins>Home Page:</ins>
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/9cf5699b-a122-4dc9-8e69-bbe6cafd896d" />
+
+<ins>About Page:</ins>
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/2a93c968-14eb-4a3e-9bc6-84bafb7d6e89" />
+
+<ins>Contact Us Page:</ins>
+<img width="1839" height="867" alt="image" src="https://github.com/user-attachments/assets/1bf4c38e-cd62-4e90-a24c-80e5fea41382" />
+
 <ins>Register Page:</ins>
+<img width="1546" height="904" alt="image" src="https://github.com/user-attachments/assets/bbcee75a-c544-4451-bca9-b4e85f7f03d7" />
 
+<ins>User Login Page:</ins>
+<img width="1919" height="736" alt="image" src="https://github.com/user-attachments/assets/38018a20-3c4a-4152-a2f9-00263855fe89" />
 
+<ins>User Home Page/Profile Page:</ins>
+<img width="1916" height="892" alt="image" src="https://github.com/user-attachments/assets/b0a5182a-62e6-408d-a912-3bb701c9967f" />
 
+<ins>User Upload Notes Page:</ins>
+<img width="1827" height="842" alt="image" src="https://github.com/user-attachments/assets/d6a47333-d49f-4df0-9b67-cab83b78687b" />
 
+<ins>User View My Notes Page:</ins>
+<img width="1828" height="684" alt="image" src="https://github.com/user-attachments/assets/6052520e-0f17-4c8c-9976-65a15770c3c9" />
 
+<ins>User View All Page:</ins>
+<img width="1808" height="614" alt="image" src="https://github.com/user-attachments/assets/007cc256-73ec-4a58-9d6b-b7e39ce30614" />
+
+<ins>User Edit Profile Page:</ins>
+<img width="1834" height="913" alt="image" src="https://github.com/user-attachments/assets/38b61ed8-d9c8-47f0-a363-56785f9b233d" />
+
+<ins>User Change Password Page:</ins>
+<img width="1862" height="877" alt="image" src="https://github.com/user-attachments/assets/03db29b1-c0d2-4dd2-b91c-6c46d884754e" />
+
+<ins>Admin Login Page:</ins>
+<img width="1853" height="869" alt="image" src="https://github.com/user-attachments/assets/45427a24-dae4-48b5-8329-bb64645429d8" />
+
+<ins>Admin Home Page:</ins>
+<img width="1868" height="910" alt="image" src="https://github.com/user-attachments/assets/3990b93a-ede8-4cef-8a9c-12d5781871c9" />
+
+<ins>Admin View User Page:</ins>
+<img width="1863" height="838" alt="image" src="https://github.com/user-attachments/assets/1a93d427-91ea-4055-b2ad-fdcb65f089bb" />
+
+<ins>Admin Pending Notes Page:</ins>
+<img width="1871" height="772" alt="image" src="https://github.com/user-attachments/assets/dfdcfc40-05d6-4017-834e-5b46649df146" />
+
+<ins>Admin Accepted Notes Page:</ins>
+<img width="1863" height="779" alt="image" src="https://github.com/user-attachments/assets/669b54fa-6aa6-472a-b5ce-bd17e4da348c" />
+
+<ins>Admin Rejected Notes Page:</ins>
+<img width="1919" height="779" alt="image" src="https://github.com/user-attachments/assets/e5ed37d8-8f08-4801-b8c9-ca5160640d80" />
+
+<ins>Admin All Notes Page:</ins>
+<img width="1919" height="885" alt="image" src="https://github.com/user-attachments/assets/302c70de-7b8d-47f7-8801-a847eb736d73" />
 
