@@ -4,7 +4,7 @@ Hello Visitor!
 This is Notes Sharing Website that means a Study Notes Sharing project built in django framewrok. The project has been built by taking reference from other Project.
 The Project has been developed by me to learn the use Django framework in python.  
 
-### Live Project for reference:  
+### Live Project link for reference:  
 https://chhatwaniharsh.pythonanywhere.com/
 
 ## Introduction To Project:
