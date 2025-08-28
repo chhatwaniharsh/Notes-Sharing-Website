@@ -55,8 +55,8 @@ ________________________________________________________________________________
 <ins>Contact Us Page:</ins>
 <img width="1839" height="867" alt="image" src="https://github.com/user-attachments/assets/1bf4c38e-cd62-4e90-a24c-80e5fea41382" />
 
-<ins>Register Page:</ins>
-<img width="1546" height="904" alt="image" src="https://github.com/user-attachments/assets/bbcee75a-c544-4451-bca9-b4e85f7f03d7" />
+<ins>User Register Page:</ins>
+<img width="1184" height="830" alt="image" src="https://github.com/user-attachments/assets/38f0eb91-729b-4bab-9040-32a1beeefb87" />
 
 <ins>User Login Page:</ins>
 <img width="1919" height="736" alt="image" src="https://github.com/user-attachments/assets/38018a20-3c4a-4152-a2f9-00263855fe89" />
