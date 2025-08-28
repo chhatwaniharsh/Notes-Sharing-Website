@@ -31,6 +31,7 @@ python3 -m venv env
 
 ### step 6 : Now perform migratations using migrate command and makemigration command:
 > python manage.py makemigrations
+  
 > python manage.py migrate  
 
 ### step 7 : Now you have to create superuser for accessing admin panel:
