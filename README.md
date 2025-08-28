@@ -22,8 +22,10 @@ python3 -m venv env
 '''
 
 ### step 4 : activate the Virtual Environment
-> env\scripts\activate  
+> env\scripts\activate
+  
 > Set-ExecutionPolicy Unrestricted -Scope Process
+  
 > env\scripts\activate
 
 ### step 5 : Install all the Packages or Modules inside requirements.txt file
@@ -97,4 +99,7 @@ ________________________________________________________________________________
 
 <ins>Admin All Notes Page:</ins>
 <img width="1919" height="885" alt="image" src="https://github.com/user-attachments/assets/302c70de-7b8d-47f7-8801-a847eb736d73" />
+
+<ins>Admin Assign Status Page:</ins>
+<img width="1918" height="784" alt="image" src="https://github.com/user-attachments/assets/219bea81-b63d-4400-9ce1-e54559df76e1" />
 
